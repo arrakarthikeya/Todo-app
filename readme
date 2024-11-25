@@ -1,0 +1,10 @@
+To-Do List App
+A simple and responsive To-Do List application to manage your daily tasks efficiently. Built with HTML, CSS, and JavaScript, this project is perfect for showcasing CRUD operations and DOM manipulation.
+
+Features
+📋 Add Tasks: Add new tasks to your to-do list.
+✔️ Mark as Completed: Mark tasks as completed with a single click.
+✏️ Edit Tasks: Modify existing tasks easily.
+❌ Delete Tasks: Remove tasks from your list.
+🌙 Dark Mode (Optional): Switch between light and dark themes.
+💾 Persistent Storage: Tasks are saved in localStorage and persist after page refresh.
